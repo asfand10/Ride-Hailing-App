@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-navigation/bottom-tabs": "^5.0.0-alpha.25",
     "@react-navigation/native": "^5.0.0-alpha.18",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
     "react": "16.9.0",
